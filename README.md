@@ -1,9 +1,11 @@
 # PHP-Modul-7
 
 1. Berikan contoh kode keneksi untuk ke database pd php?
-  -> 
+
+-> 
   
   <?php
+  
   
 $host = "localhost";
 
